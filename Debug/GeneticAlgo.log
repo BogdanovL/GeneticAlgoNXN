@@ -1,0 +1,19 @@
+﻿  GeneticAlgo.cpp
+d:\google_drive\school_stuff\cpsc5610_ai\hw3\geneticalgo\geneticalgo\geneticalgo.cpp(52): warning C4018: '<': signed/unsigned mismatch
+d:\google_drive\school_stuff\cpsc5610_ai\hw3\geneticalgo\geneticalgo\geneticalgo.cpp(75): warning C4018: '<': signed/unsigned mismatch
+d:\google_drive\school_stuff\cpsc5610_ai\hw3\geneticalgo\geneticalgo\geneticalgo.cpp(77): warning C4018: '<': signed/unsigned mismatch
+d:\google_drive\school_stuff\cpsc5610_ai\hw3\geneticalgo\geneticalgo\geneticalgo.cpp(113): warning C4018: '<': signed/unsigned mismatch
+d:\google_drive\school_stuff\cpsc5610_ai\hw3\geneticalgo\geneticalgo\geneticalgo.cpp(118): warning C4018: '<': signed/unsigned mismatch
+d:\google_drive\school_stuff\cpsc5610_ai\hw3\geneticalgo\geneticalgo\geneticalgo.cpp(122): warning C4018: '<': signed/unsigned mismatch
+d:\google_drive\school_stuff\cpsc5610_ai\hw3\geneticalgo\geneticalgo\geneticalgo.cpp(128): warning C4018: '<': signed/unsigned mismatch
+d:\google_drive\school_stuff\cpsc5610_ai\hw3\geneticalgo\geneticalgo\geneticalgo.cpp(135): warning C4018: '<': signed/unsigned mismatch
+d:\google_drive\school_stuff\cpsc5610_ai\hw3\geneticalgo\geneticalgo\geneticalgo.cpp(144): warning C4018: '>': signed/unsigned mismatch
+d:\google_drive\school_stuff\cpsc5610_ai\hw3\geneticalgo\geneticalgo\geneticalgo.cpp(158): warning C4018: '<': signed/unsigned mismatch
+d:\google_drive\school_stuff\cpsc5610_ai\hw3\geneticalgo\geneticalgo\geneticalgo.cpp(172): warning C4018: '<': signed/unsigned mismatch
+d:\google_drive\school_stuff\cpsc5610_ai\hw3\geneticalgo\geneticalgo\geneticalgo.cpp(178): warning C4018: '<': signed/unsigned mismatch
+d:\google_drive\school_stuff\cpsc5610_ai\hw3\geneticalgo\geneticalgo\geneticalgo.cpp(181): warning C4018: '<': signed/unsigned mismatch
+d:\google_drive\school_stuff\cpsc5610_ai\hw3\geneticalgo\geneticalgo\geneticalgo.cpp(205): warning C4018: '<': signed/unsigned mismatch
+d:\google_drive\school_stuff\cpsc5610_ai\hw3\geneticalgo\geneticalgo\geneticalgo.cpp(232): warning C4018: '<': signed/unsigned mismatch
+d:\google_drive\school_stuff\cpsc5610_ai\hw3\geneticalgo\geneticalgo\geneticalgo.cpp(277): warning C4018: '<': signed/unsigned mismatch
+  GeneticAlgo.vcxproj -> D:\Google_Drive\School_Stuff\CPSC5610_AI\HW3\GeneticAlgo\Debug\GeneticAlgo.exe
+  GeneticAlgo.vcxproj -> D:\Google_Drive\School_Stuff\CPSC5610_AI\HW3\GeneticAlgo\Debug\GeneticAlgo.pdb (Full PDB)
